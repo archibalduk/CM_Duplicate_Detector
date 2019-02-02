@@ -1,0 +1,17 @@
+Arsenault,Arseneault
+Belley-Pelletier,Pelletier
+Bobrovski,Bobrovsky
+Bourret,Bourret-Vinette
+DeFulviis,De Fulviis
+Denicourt-Fournier,Denicourt
+Kolle,John Kolle
+Fazleev,Fazleyev
+Jakovlejevic,Jakovljevic
+Kulemin,Kulyomin
+Lundvald Nielsen,Lundvald
+Maksimov,Maximov
+Petersen,M. Petersen
+Poddubny,Poddubnyi
+Saint-Pierre,St. Pierre,St-Pierre
+Sergachev,Sergachyov
+Vasilevskiy,Vasilevsky
